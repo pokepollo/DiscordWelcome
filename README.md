@@ -2,6 +2,7 @@
 
 Configuracion:
 
+
 1.- Agrega "ID DE CANAL" en el que se enviaran los mensajes de Bienvenida.
 2.- En "FOTO.png" Agrega la imagen que quieras.
 3.- Agrega el "TOKEN" de tu BOT de Discord.
