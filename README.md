@@ -1,4 +1,4 @@
-# Discord Welcome Bot con Mensaje de Bienvenida e imagen.
+# Discord Welcome Bot con Mensaje de Bienvenida, Salida e imagen.
 
 Configuracion:
 
