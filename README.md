@@ -1,7 +1,5 @@
 # DiscordWelcome
 
-============================================
-
 Configuracion:
 
 1.- Agrega "ID DE CANAL" en el que se enviaran los mensajes de Bienvenida.
